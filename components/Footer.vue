@@ -4,7 +4,7 @@
       
       <!-- About Section -->
       <div>
-        <h3 class="text-lg font-bold text-white">TechDesign</h3>
+        <h3 class="text-lg font-bold text-white">Clarionconcept</h3>
         <p class="mt-4">
           We create cutting-edge tech designs for innovative businesses. Our expertise in technology and design sets us apart.
         </p>

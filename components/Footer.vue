@@ -1,6 +1,6 @@
 <template>
   <footer class="bg-gray-900 text-gray-300 py-10">
-    <div class="container mx-auto grid grid-cols-1 md:grid-cols-4 gap-8">
+    <div class="container mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
       
       <!-- About Section -->
       <div>
@@ -43,7 +43,7 @@
     
     <!-- Copyright -->
     <div class="mt-8 text-center text-gray-400">
-      <p>&copy; 2024 Clarionconcept. All rights reserved.</p>
+      <p>&copy; 2024 TechDesign. All rights reserved.</p>
     </div>
   </footer>
 </template>

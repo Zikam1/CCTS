@@ -1,9 +1,9 @@
 <template>
   <header class="bg-white dark:bg-gray-900 shadow-md">
-    <div class="container mx-auto px-4 py-4 flex justify-between items-center">
+    <div class="container mx-auto px-6 md:px-10 py-4 flex justify-between items-center max-w-7xl">
       <!-- Logo -->
       <div class="text-2xl font-bold text-gray-900 dark:text-white">
-        <a href="/">Clarionconcept</a>
+        <a href="/" class="px-2">Clariconcept</a>
       </div>
       
       <!-- Navigation Links -->
@@ -49,7 +49,7 @@
     </div>
     
     <!-- Mobile Menu -->
-    <div v-if="isOpen" class="md:hidden px-4 py-2 bg-white dark:bg-gray-900 space-y-2">
+    <div v-if="isOpen" class="md:hidden px-6 py-2 bg-white dark:bg-gray-900 space-y-2">
       <a href="/" class="block text-gray-600 dark:text-gray-300">Home</a>
       <a href="/projects" class="block text-gray-600 dark:text-gray-300">Projects</a>
       <a href="/about" class="block text-gray-600 dark:text-gray-300">About</a>

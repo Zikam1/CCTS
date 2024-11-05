@@ -3,7 +3,7 @@
   <!-- Hero Section -->
   <section class="flex flex-col md:flex-row items-center py-16 px-4 md:px-16 lg:px-32 bg-gray-900">
     <div class="md:w-1/2 space-y-4 mx-auto lp:pl-8 max-w-lg">
-      <h1 class="text-3xl md:text-5xl text-white font-bold md:mb-4  lg:mb-8 lg:mt-0">Empowering Technology Solutions</h1>
+      <h1 class="text-3xl md:text-5xl text-white font-bold md:mb-4  lg:mb-8 lg:mt-0">Efficiency through Innovation</h1>
       <p class="text-white">Discover cutting-edge technology to drive your business forward.</p>
       <div class="flex space-x-4">
         <button class="bg-blue-500 text-white px-6 py-3 rounded-md hover:bg-blue-600">Explore Features</button>
@@ -30,7 +30,7 @@
           </svg>
         </div>
         <h3 class="text-xl font-semibold">Cloud Solutions</h3>
-        <p class="mt-4 text-gray-600">Leverage scalable cloud infrastructure to optimize your business operations.</p>
+        <p class="mt-4 text-gray-600">We provide infrastructure management cybersecurity, and IT support to ensure system reliability and operational efficiency.</p>
       </div>
 
       <!-- Service Card 2 -->
@@ -41,7 +41,7 @@
           </svg>
         </div>
         <h3 class="text-xl font-semibold">Digital Technology</h3>
-        <p class="mt-4 text-gray-600">We Offers web and mobile app development, digital marketing, and UX design to enhance online presence and customer engagement..</p>
+        <p class="mt-4 text-gray-600">We provide reliable digital solutions that support data analytics, automation, and ultimately improve decision-making and optimize processes across industries.</p>
       </div>
 
       <!-- Service Card 3 -->
@@ -52,7 +52,7 @@
           </svg>
         </div>
         <h3 class="text-xl font-semibold">IT Services</h3>
-        <p class="mt-4 text-gray-600">We provides infrastructure management, cybersecurity, and IT support to ensure system reliability and operational efficiency.</p>
+        <p class="mt-4 text-gray-600">We offer web and mobile app development, digital marketing, and Ux design to enhance online presence and customer engagement.</p>
       </div>
 
       <!-- Service Card 4 -->

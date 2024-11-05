@@ -63,7 +63,7 @@
           </svg>
         </div>
         <h3 class="text-xl font-semibold">A.I/M.L</h3>
-        <p class="mt-4 text-gray-600">We Delivers' intelligent algorithms for data analysis and automation, improving decision-making and optimizing processes across industries.</p>
+        <p class="mt-4 text-gray-600">We offer advanced solutions for data analysis and automation, empowering organizations to enhance decision-making and streamline processes across various industries.</p>
       </div>
     </div>
   </div>

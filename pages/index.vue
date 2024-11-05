@@ -155,29 +155,7 @@
   </div>
 </div>
   
-<div class="py-16 bg-gray-100">
-  <div class="container mx-auto text-center px-4 sm:px-8 lg:px-24">
-    <h2 class="text-3xl md:text-4xl font-bold mb-8">Testimonials from Our Founders</h2>
-    <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
-      <div class="p-6 bg-white rounded-md shadow-md">
-        <blockquote class="italic text-gray-600">
-          "Our website transformation by Clarionconcept has been a game changer; our users absolutely love the new experience!"
-        </blockquote>
-        <footer class="mt-4 font-bold text-gray-900">
-          — Aku Michael,<br />CEO, Clarionconcept Tech
-        </footer>
-      </div>
-      <div class="p-6 bg-white rounded-md shadow-md">
-        <blockquote class="italic text-gray-600">
-          "Clarionconcept's team exceeded all our expectations and truly understood our needs."
-        </blockquote>
-        <footer class="mt-4 font-bold text-gray-900">
-          — Aku Affiong,<br />Marketer, Clarionconcept
-        </footer>
-      </div>
-    </div>
-  </div>
-</div>
+
 
 
 

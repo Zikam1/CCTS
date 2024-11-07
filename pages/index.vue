@@ -1,22 +1,22 @@
 <template>
     <section>
   <!-- Hero Section -->
-  <section class="flex flex-col md:flex-row items-center py-16 px-4 md:px-16 lg:px-32 bg-gray-900">
-    <!-- Left Text Section -->
-    <div class="md:w-1/2 space-y-4 mx-auto pl-4 md:pl-8 max-w-lg">
-      <h1 class="text-3xl md:text-5xl text-white font-bold md:mb-4 lg:mb-8 lg:mt-0">Efficiency through Innovation</h1>
-      <p class="text-white">Discover cutting-edge technology to drive your business forward.</p>
-      <div class="flex space-x-4">
-        <button class="bg-blue-500 text-white px-6 py-3 rounded-md hover:bg-blue-600">Explore Features</button>
-        <!-- <button class="bg-gray-300 text-blue-600 px-6 py-3 rounded-md hover:bg-gray-400">Contact Sales</button> -->
-      </div>
+  <section class="flex flex-col md:flex-row items-center py-16 px-4 md:px-16 lg:px-0 bg-gray-900">
+  <!-- Left Text Section -->
+  <div class="md:w-1/2 space-y-4 mx-auto pl-4 md:pl-8 max-w-lg text-center md:text-left">
+    <h1 class="text-3xl md:text-5xl text-white font-bold md:mb-4 lg:mb-8 lg:mt-0">Efficiency through Innovation</h1>
+    <p class="text-white">Discover cutting-edge technology to drive your business forward.</p>
+    <div class="flex justify-center md:justify-start space-x-4">
+      <button class="bg-blue-500 text-white px-6 py-3 rounded-md hover:bg-blue-600">Explore Features</button>
     </div>
+  </div>
 
-    <!-- Right Image Section -->
-    <div class="md:w-1/2 flex justify-center mt-8 md:mt-0">
-      <img src="/assets/iui.jpg" alt="Tech Illustration" class="w-full max-w-md lg:max-w-lg max-h-48 object-cover rounded-md">
-    </div>
-  </section>
+  <!-- Right Image Section -->
+  <div class="md:w-1/2 flex justify-center mt-8 md:mt-0">
+    <img src="/assets/iui.jpg" alt="Tech Illustration" class="w-full max-w-md lg:max-w-lg max-h-48 object-cover rounded-md">
+  </div>
+</section>
+
 
 
 

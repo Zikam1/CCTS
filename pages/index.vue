@@ -2,18 +2,24 @@
     <section>
   <!-- Hero Section -->
   <section class="flex flex-col md:flex-row items-center py-16 px-4 md:px-16 lg:px-32 bg-gray-900">
-    <div class="md:w-1/2 space-y-4 mx-auto lp:pl-8 max-w-lg">
-      <h1 class="text-3xl md:text-5xl text-white font-bold md:mb-4  lg:mb-8 lg:mt-0">Efficiency through Innovation</h1>
+    <!-- Left Text Section -->
+    <div class="md:w-1/2 space-y-4 mx-auto pl-4 md:pl-8 max-w-lg">
+      <h1 class="text-3xl md:text-5xl text-white font-bold md:mb-4 lg:mb-8 lg:mt-0">Efficiency through Innovation</h1>
       <p class="text-white">Discover cutting-edge technology to drive your business forward.</p>
       <div class="flex space-x-4">
         <button class="bg-blue-500 text-white px-6 py-3 rounded-md hover:bg-blue-600">Explore Features</button>
-        <button class="bg-gray-300 text-blue-600 px-6 py-3 rounded-md hover:bg-gray-400">Contact Sales</button>
+        <!-- <button class="bg-gray-300 text-blue-600 px-6 py-3 rounded-md hover:bg-gray-400">Contact Sales</button> -->
       </div>
     </div>
-    <div class="md:w-1/2 hidden md:block">
-      <!-- <img src="/assets/zik.jpg" alt="Tech illustration" class="w-full h-auto"> -->
+
+    <!-- Right Image Section -->
+    <div class="md:w-1/2 flex justify-center mt-8 md:mt-0">
+      <img src="/assets/iui.jpg" alt="Tech Illustration" class="w-full max-w-md lg:max-w-lg max-h-48 object-cover rounded-md">
     </div>
   </section>
+
+
+
      
    
      <!-- Services Section -->
@@ -71,33 +77,40 @@
 
 
 
-  
-    <!-- Project Showcase Section -->
-    <div class="py-16 bg-white">
+<div class="py-16 bg-white">
   <div class="container mx-auto px-4 sm:px-6 lg:px-8 text-center">
     <h2 class="text-3xl md:text-4xl font-bold mb-10">Our Recent Projects</h2>
     <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 lg:gap-8">
-      
+
+      <!-- Project 1 -->
       <div class="bg-gray-100 rounded-lg shadow-lg overflow-hidden transform transition hover:scale-105 mx-2 lg:mx-0">
-        <img src="assets/st.jpg" alt="Project 1" class="w-full h-64 object-cover">
+        <div class="p-4">
+          <img src="assets/st.jpg" alt="Project 1" class="w-full h-48 object-cover rounded-md">
+        </div>
         <div class="p-6">
-          <h3 class="text-xl font-semibold">Tech Startup </h3>
+          <h3 class="text-xl font-semibold">Tech Startup</h3>
           <p class="mt-4 text-gray-600">Designed a sleek, modern interface for a tech startup focused on AI solutions.</p>
           <a href="#" class="text-blue-500 hover:underline mt-4 block">View Case Study</a>
         </div>
       </div>
-      
+
+      <!-- Project 2 -->
       <div class="bg-gray-100 rounded-lg shadow-lg overflow-hidden transform transition hover:scale-105 mx-2 lg:mx-0">
-        <img src="assets/ecommerce.png" alt="Project 2" class="w-full h-64 object-cover">
+        <div class="p-4">
+          <img src="assets/ecommerce.png" alt="Project 2" class="w-full h-48 object-cover rounded-md">
+        </div>
         <div class="p-6">
           <h3 class="text-xl font-semibold">E-commerce Platform</h3>
           <p class="mt-4 text-gray-600">Developed a user-friendly e-commerce platform optimized for conversions.</p>
           <a href="#" class="text-blue-500 hover:underline mt-4 block">View Case Study</a>
         </div>
       </div>
-      
+
+      <!-- Project 3 -->
       <div class="bg-gray-100 rounded-lg shadow-lg overflow-hidden transform transition hover:scale-105 mx-2 lg:mx-0">
-        <img src="assets/ph.jpg" alt="Project 3" class="w-full h-64 object-cover">
+        <div class="p-4">
+          <img src="assets/ph.jpg" alt="Project 3" class="w-full h-48 object-cover rounded-md">
+        </div>
         <div class="p-6">
           <h3 class="text-xl font-semibold">Mobile App Design</h3>
           <p class="mt-4 text-gray-600">Created a seamless mobile app experience for online learning.</p>
@@ -108,6 +121,10 @@
     </div>
   </div>
 </div>
+
+
+
+
 
 <section class="flex flex-col-reverse md:flex-row items-center justify-center py-16 px-6 md:px-16 lg:px-32 bg-gray-100">
   <div class="md:w-1/2 lg:w-5/12 space-y-6 md:pr-10 text-center md:text-left">

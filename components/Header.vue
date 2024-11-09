@@ -35,7 +35,9 @@
         </button>
         
         <!-- CTA Button -->
-        <a href="/get-started" class="bg-blue-500 text-white px-4 py-2 rounded-md hover:bg-blue-600">Get Started</a>
+        <a href="/get-started" class="hidden md:inline-block bg-blue-500 text-white px-4 py-2 rounded-md hover:bg-blue-600">
+  Get Started
+</a>
       </div>
       
       <!-- Mobile Menu Button -->

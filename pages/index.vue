@@ -2,25 +2,31 @@
     <section>
   <!-- Hero Section -->
   <section class="flex flex-col md:flex-row items-center py-16 px-4 md:px-16 lg:px-0 bg-gray-900">
-  <!-- Left Text Section -->
-  <div class="md:w-1/2 space-y-4 mx-auto pl-4 md:pl-8 max-w-lg text-center md:text-left">
-    <h1 class="text-3xl md:text-5xl text-white font-bold md:mb-4 lg:mb-8 lg:mt-0">Efficiency through Innovation</h1>
-    <p class="text-white">Discover cutting-edge technology to drive your business forward.</p>
-    <div class="flex justify-center md:justify-start space-x-4">
-      <button class="bg-blue-500 text-white px-6 py-3 rounded-md hover:bg-blue-600">Explore Features</button>
+  <!-- Wrapper to control max width -->
+  <div class="container max-w-screen-lg mx-auto flex flex-col md:flex-row items-center">
+    <!-- Left Text Section -->
+    <div class="md:w-1/2 space-y-4 px-4 md:px-8 text-center md:text-left">
+      <h1 class="text-3xl md:text-5xl text-white font-bold mb-4 lg:mb-8">Efficiency through Innovation</h1>
+      <p class="text-white max-w-md mx-auto md:mx-0">
+        Discover cutting-edge technology to drive your business forward.
+      </p>
+      <div class="flex justify-center md:justify-start space-x-4 mt-6">
+        <button class="bg-blue-500 text-white px-6 py-3 rounded-md hover:bg-blue-600 focus:outline-none focus:ring-4 focus:ring-blue-400">
+          Explore Features
+        </button>
+      </div>
     </div>
-  </div>
 
-  <!-- Right Image Section -->
-  <div class="md:w-1/2 flex justify-center mt-8 md:mt-0">
-    <img src="/assets/iui.jpg" alt="Tech Illustration" class="w-full max-w-md lg:max-w-lg max-h-48 object-cover rounded-md">
+    <!-- Right Image Section -->
+    <div class="md:w-1/2 flex justify-center mt-8 md:mt-0">
+      <img src="/assets/iui.jpg" alt="Tech Illustration" class="w-full max-w-sm md:max-w-md lg:max-w-lg object-cover rounded-md shadow-lg">
+    </div>
   </div>
 </section>
 
 
 
-
-     
+        
    
      <!-- Services Section -->
 <div class="py-16 bg-gray-100">

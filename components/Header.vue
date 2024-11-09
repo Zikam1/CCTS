@@ -1,6 +1,6 @@
 <template>
   <header class="bg-white dark:bg-gray-900 shadow-md">
-    <div class="container mx-auto px-6 md:px-10 py-4 flex justify-between items-center max-w-7xl">
+    <div class="container mx-auto px-6 md:px-10 py-4 flex justify-between items-center max-w-5xl">
       <!-- Logo -->
       <div class="text-2xl font-bold text-gray-900 dark:text-white">
         <a href="/" class="px-2">Clarionconcept</a>

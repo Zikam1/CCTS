@@ -19,8 +19,8 @@
 
       <!-- Actions -->
       <div class="flex items-center space-x-4">
-        <!-- Dark Mode Toggle -->
-        <button @click="toggleDarkMode" class="focus:outline-none">
+        <!-- Dark Mode Toggle (Hidden on mobile) -->
+        <button @click="toggleDarkMode" class="hidden md:block focus:outline-none">
           <svg v-if="isDarkMode" class="w-6 h-6 text-yellow-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
             <!-- Sun icon SVG for light mode -->
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 3v1m6.364 1.636l-.707-.707m4.243 4.243h-1M21 12h-1m-1.636 6.364l-.707.707m-4.243-4.243v1M12 21v1m-6.364-1.636l.707.707m-4.243-4.243h1M3 12h1m1.636-6.364l.707-.707M7.757 4.757l-.707.707M12 5a7 7 0 017 7h-1a6 6 0 00-6-6V5z" />
@@ -31,8 +31,8 @@
           </svg>
         </button>
 
-        <!-- Search Icon -->
-        <button class="text-gray-600 dark:text-gray-300 focus:outline-none">
+        <!-- Search Icon (Hidden on mobile) -->
+        <button class="hidden md:block text-gray-600 dark:text-gray-300 focus:outline-none">
           <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-4.35-4.35m1.1-5.4a7.5 7.5 0 11-15 0 7.5 7.5 0 0115 0z"></path>
           </svg>

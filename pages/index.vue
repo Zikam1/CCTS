@@ -19,7 +19,7 @@
 
     <!-- Right Image Section -->
     <div class="md:w-1/2 flex justify-center mt-8 md:mt-0">
-      <img src="/assets/iui.jpg" alt="Tech Illustration" class="w-full max-w-sm md:max-w-md lg:max-w-lg object-cover rounded-md shadow-lg">
+      <img src="../assets/hu.jpg" alt="Tech Illustration" class="w-full max-w-sm md:max-w-md lg:max-w-lg object-cover rounded-md shadow-lg">
     </div>
   </div>
 </section>

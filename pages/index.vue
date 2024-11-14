@@ -1,13 +1,13 @@
 <template>
     <section>
   <!-- Hero Section -->
-  <section class="flex flex-col md:flex-row items-center py-16 px-4 md:px-16 lg:px-0 bg-gray-800">
+  <section class="flex flex-col md:flex-row items-center py-16 px-4 md:px-16 lg:px-0 bg-gray-400">
   <!-- Wrapper to control max width -->
   <div class="container max-w-screen-lg mx-auto flex flex-col md:flex-row items-center">
     <!-- Left Text Section -->
     <div class="md:w-1/2 space-y-4 px-4 md:px-8 text-center md:text-left">
-      <h1 class="text-3xl md:text-5xl text-white font-bold mb-4 lg:mb-8">Efficiency through Innovation</h1>
-      <p class="text-white max-w-md mx-auto md:mx-0">
+      <h1 class="text-3xl md:text-5xl text-black  font-bold mb-4 lg:mb-8">Efficiency through Innovation</h1>
+      <p class="text-gray-800 max-w-md mx-auto md:mx-0">
         Discover cutting-edge technology to drive your business forward.
       </p>
       <div class="flex justify-center md:justify-start space-x-4 mt-6">
@@ -19,7 +19,7 @@
 
     <!-- Right Image Section -->
     <div class="md:w-1/2 flex justify-center mt-8 md:mt-0">
-      <img src="../assets/hu.jpg" alt="Tech Illustration" class="w-full max-w-sm md:max-w-md lg:max-w-lg object-cover rounded-md shadow-lg">
+      <img src="../assets/oi-.jpg" alt="Tech Illustration" class="w-full max-w-sm md:max-w-md lg:max-w-lg object-cover rounded-md">
     </div>
   </div>
 </section>

@@ -6,7 +6,7 @@
   <div class="container max-w-screen-lg mx-auto flex flex-col md:flex-row items-center">
     <!-- Left Text Section -->
     <div class="md:w-1/2 space-y-4 px-4 md:px-8 text-center md:text-left">
-      <h1 class="text-3xl md:text-5xl text-black  font-bold mb-4 lg:mb-8">Efficiency through Innovation</h1>
+      <h1 class="text-3xl md:text-5xl text-gray-900  font-bold mb-4 lg:mb-8">Efficiency through Innovation</h1>
       <p class="text-gray-800 max-w-md mx-auto md:mx-0">
         Discover cutting-edge technology to drive your business forward.
       </p>

@@ -1,7 +1,7 @@
 <template>
     <section>
   <!-- Hero Section -->
-  <section class="flex flex-col md:flex-row items-center py-16 px-4 md:px-16 lg:px-0 bg-gray-900">
+  <section class="flex flex-col md:flex-row items-center py-16 px-4 md:px-16 lg:px-0 bg-gray-800">
   <!-- Wrapper to control max width -->
   <div class="container max-w-screen-lg mx-auto flex flex-col md:flex-row items-center">
     <!-- Left Text Section -->
@@ -24,10 +24,6 @@
   </div>
 </section>
 
-
-
-        
-   
      <!-- Services Section -->
 <div class="py-16 bg-gray-100">
   <div class="container mx-auto text-center px-4 lg:px-32">
@@ -178,14 +174,6 @@
   </div>
 </div>
   
-
-
-
-
-
-  
-     
-     
       
     </section>
   </template>

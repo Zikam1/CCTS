@@ -3,10 +3,10 @@
   <!-- Hero Section -->
   <section class="flex flex-col md:flex-row items-center py-16 px-4 md:px-16 lg:px-0 bg-gray-400">
   <!-- Wrapper to control max width -->
-  <div class="container max-w-screen-lg mx-auto flex flex-col md:flex-row items-center">
+  <div class="container max-w-screen-lg mx-auto flex flex-col md:flex-row items-stretch h-full">
     <!-- Left Text Section -->
-    <div class="md:w-1/2 space-y-4 px-4 md:px-8 text-center md:text-left">
-      <h1 class="text-3xl md:text-5xl text-gray-900  font-bold mb-4 lg:mb-8">Efficiency through Innovation</h1>
+    <div class="md:w-1/2 space-y-4 px-4 md:px-16 text-center md:text-left flex flex-col justify-center">
+      <h1 class="text-3xl md:text-4xl text-gray-900 font-bold mb-4 lg:mb-8">Efficiency through Innovation</h1>
       <p class="text-gray-800 max-w-md mx-auto md:mx-0">
         Discover cutting-edge technology to drive your business forward.
       </p>
@@ -18,11 +18,12 @@
     </div>
 
     <!-- Right Image Section -->
-    <div class="md:w-1/2 flex justify-center mt-8 md:mt-0">
-      <img src="../assets/oi-.jpg" alt="Tech Illustration" class="w-full max-w-sm md:max-w-md lg:max-w-lg object-cover rounded-md">
+    <div class="md:w-1/2 flex justify-center items-center mt-8 md:mt-0">
+      <img src="../assets/oi-.jpg" alt="Tech Illustration" class="w-full max-w-xs md:max-w-sm object-cover rounded-md">
     </div>
   </div>
 </section>
+
 
      <!-- Services Section -->
 <div class="py-16 bg-gray-100">

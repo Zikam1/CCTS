@@ -20,18 +20,6 @@
   </div>
 </section>
 
-
-
-
-  
-      <!-- About Section -->
-      <section class="py-16 bg-gray-50">
-        <div class="container mx-auto px-6 lg:px-12 flex flex-col lg:flex-row items-center">
-          <div class="lg:w-1/2">
-            <!-- <img src="/path/to/illustration.jpg" alt="About Us" class="w-full rounded-lg shadow-md"> -->
-          </div>
-        </div>
-      </section>
   
       <!-- Core Values Section -->
       <section class="py-16 bg-gray-100">

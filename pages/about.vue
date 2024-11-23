@@ -1,23 +1,26 @@
 <template>
-    <section class="bg-gray-100 py-16">
-        <div class="container mx-auto px-6">
-  <h2 class="text-3xl font-semibold text-center mb-8">About Us</h2>
-  <div class="flex  space-x-6 flex-col md:flex-row items-center justify-center space-y-6 md:space-y-0 md:space-x-6">
-    <img 
-      src="../assets/about.jpg" 
-      alt="Church Building" 
-      class="w-full md:w-1/2 max-w-md rounded-lg shadow-lg"
-    >
-    <div class="md:w-1/2 text-gray-700 py-8">
-      <p class="mb-8">
+  <section class="flex flex-col md:flex-row items-center py-16 px-4 md:px-16 lg:px-0 bg-white">
+  <!-- Wrapper to control max width -->
+  <div class="container max-w-screen-lg mx-auto flex flex-col md:flex-row items-stretch h-full">
+    <!-- Left Image Section (on medium screens and above) -->
+    <div class="md:w-1/2 flex justify-center items-center mt-8 md:mt-0">
+      <img src="../assets/about.jpg" alt="Tech Illustration" class="w-full max-w-xs md:max-w-sm object-cover rounded-md">
+    </div>
+
+    <!-- Right Text Section (on medium screens and above) -->
+    <div class="md:w-1/2 space-y-4 px-4 md:px-16 text-center md:text-left flex flex-col justify-center">
+      <h1 class="text-3xl md:text-4xl text-gray-900 font-bold mb-4 lg:mb-8">About Us</h1>
+      <p class="text-gray-800 text-xl md:text-xl  max-w-md mx-auto md:mx-0">
         At ClarionConcept, we specialize in crafting innovative technology solutions that empower businesses to
         achieve their goals. Our commitment to excellence drives us to deliver world-class services that transform
         industries and foster growth.
       </p>
+      
     </div>
   </div>
-</div>
-  </section>
+</section>
+
+
 
 
   

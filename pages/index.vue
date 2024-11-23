@@ -93,7 +93,7 @@
         <div class="p-6">
           <h3 class="text-xl font-semibold">Tech Startup</h3>
           <p class="mt-4 text-gray-600">Designed a sleek, modern interface for a tech startup focused on AI solutions.</p>
-          <a href="#" class="text-blue-500 hover:underline mt-4 block">View Case Study</a>
+          <!-- <a href="#" class="text-blue-500 hover:underline mt-4 block">View Case Study</a> -->
         </div>
       </div>
 
@@ -105,7 +105,7 @@
         <div class="p-6">
           <h3 class="text-xl font-semibold">E-commerce Platform</h3>
           <p class="mt-4 text-gray-600">Developed a user-friendly e-commerce platform optimized for conversions.</p>
-          <a href="#" class="text-blue-500 hover:underline mt-4 block">View Case Study</a>
+          <!-- <a href="#" class="text-blue-500 hover:underline mt-4 block">View Case Study</a> -->
         </div>
       </div>
 
@@ -117,7 +117,7 @@
         <div class="p-6">
           <h3 class="text-xl font-semibold">Mobile App Design</h3>
           <p class="mt-4 text-gray-600">Created a seamless mobile app experience for online learning.</p>
-          <a href="#" class="text-blue-500 hover:underline mt-4 block">View Case Study</a>
+          <!-- <a href="#" class="text-blue-500 hover:underline mt-4 block">View Case Study</a> -->
         </div>
       </div>
 

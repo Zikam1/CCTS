@@ -50,7 +50,7 @@
   </ul>
   <div class="mt-6">
     <a href="https://server109.web-hosting.com:2096/" target="_blank" rel="noopener noreferrer" class="hover:text-blue-500">
-      Admin
+      Admin access
     </a>
   </div></div>
         

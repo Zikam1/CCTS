@@ -12,7 +12,7 @@
       <!-- Navigation Links -->
       <nav class="hidden md:flex space-x-6">
         <NuxtLink to="/" class="text-gray-600 dark:text-gray-300 hover:text-blue-500">Home</NuxtLink>
-        <NuxtLink to="/projects" class="text-gray-600 dark:text-gray-300 hover:text-blue-500">Projects</NuxtLink>
+        <!-- <NuxtLink to="/projects" class="text-gray-600 dark:text-gray-300 hover:text-blue-500">Projects</NuxtLink> -->
         <NuxtLink to="/about" class="text-gray-600 dark:text-gray-300 hover:text-blue-500">About</NuxtLink>
         <NuxtLink to="/contact" class="text-gray-600 dark:text-gray-300 hover:text-blue-500">Contact</NuxtLink>
       </nav>
@@ -58,7 +58,7 @@
     <!-- Mobile Menu -->
     <div v-if="isOpen" class="md:hidden px-6 py-2 bg-white dark:bg-gray-900 space-y-2">
       <NuxtLink to="/" class="block text-gray-600 dark:text-gray-300">Home</NuxtLink>
-      <NuxtLink to="/projects" class="block text-gray-600 dark:text-gray-300">Projects</NuxtLink>
+      <!-- <NuxtLink to="/projects" class="block text-gray-600 dark:text-gray-300">Projects</NuxtLink> -->
       <NuxtLink to="/about" class="block text-gray-600 dark:text-gray-300">About</NuxtLink>
       <NuxtLink to="/contact" class="block text-gray-600 dark:text-gray-300">Contact</NuxtLink>
     </div>
